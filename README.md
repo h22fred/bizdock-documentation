@@ -14,4 +14,4 @@ On GitHub BizDock source code actually consists in several repositories:
 * https://github.com/theAgileFactory/maf-dbmdl : the component which manages (also using the http://www.mybatis.org/migrations/ library) the database evolutions for BizDock itself (in relation with the maf-desktop-datamodel component)
 * https://github.com/theAgileFactory/bizdock-installation : a project which contains the code to create the BizDock installer (based on Docker)
 
-Please refer to our wiki https://help.bizdock.io/doku.php for more details about the feature scope of BizDock as well as how to build, install and customize it.
+Please refer to our wiki https://help-online.bizdock.io for more details about the feature scope of BizDock as well as how to build, install and customize it.
